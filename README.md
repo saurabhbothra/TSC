@@ -1,7 +1,7 @@
 # Node.js Technical Steering Committee
 
 The Node.js Technical Steering Committee (TSC) is the technical
-governing body of Node.js. It is described in the [TSC Charter][].
+governing body of Node.js. It is described in the [TSC Charter][]..
 
 ## TSC scope
 
